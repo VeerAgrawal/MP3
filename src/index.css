@@ -1,0 +1,9 @@
+* { margin: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: calc(0.9vw + 0.9vh);   
+  background: #f5f7fa;
+  min-height: 100vh;            
+  text-align: center;  
+}
